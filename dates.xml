@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <element>
+        <end_date>2017-01-15</end_date>
+        <location>Pfarrheim Ampfing</location>
+        <name>Bibelwochenende</name>
+        <preliminary_meeting>
+            <location>Pfarrheim Ampfing</location>
+            <name>Vorbereitungstreffen</name>
+            <start_date>2017-01-08</start_date>
+            <start_time>14:00:00</start_time>
+            <type>0</type>
+        </preliminary_meeting>
+        <start_date>2017-01-14</start_date>
+        <start_time>09:00:00</start_time>
+        <type>1</type>
+    </element>
+    <element>
+        <end_date>2017-03-12</end_date>
+        <location>Rimsting</location>
+        <name>Firmwochenende</name>
+        <preliminary_meeting>
+            <location>Pfarrheim Ampfing</location>
+            <name>Vorbereitungstreffen</name>
+            <start_date>2017-03-05</start_date>
+            <start_time>14:00:00</start_time>
+            <type>0</type>
+        </preliminary_meeting>
+        <start_date>2017-03-10</start_date>
+        <start_time>18:00:00</start_time>
+        <type>1</type>
+    </element>
+    <element>
+        <end_date>2017-04-30</end_date>
+        <location>Rimsting</location>
+        <name>Firmwochenende</name>
+        <preliminary_meeting>
+            <location>Pfarrheim Ampfing</location>
+            <name>Vorbereitungstreffen</name>
+            <start_date>2017-04-23</start_date>
+            <start_time>14:00:00</start_time>
+            <type>0</type>
+        </preliminary_meeting>
+        <start_date>2017-04-28</start_date>
+        <start_time>18:00:00</start_time>
+        <type>1</type>
+    </element>
+    <element>
+        <end_date>2017-05-21</end_date>
+        <location>Rimsting</location>
+        <name>Firmwochenende</name>
+        <preliminary_meeting>
+            <location>Pfarrheim Ampfing</location>
+            <name>Vorbereitungstreffen</name>
+            <start_date>2017-05-14</start_date>
+            <start_time>14:00:00</start_time>
+            <type>0</type>
+        </preliminary_meeting>
+        <start_date>2017-05-19</start_date>
+        <start_time>18:00:00</start_time>
+        <type>1</type>
+    </element>
+    <element>
+        <location>Pfarrkirche Ampfing</location>
+        <name>Firmung</name>
+        <start_date>2017-07-05</start_date>
+        <start_time>09:00:00</start_time>
+        <type>0</type>
+    </element>
+</events>
