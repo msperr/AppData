@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <events>
+        <element>Bibelwochenende</element>
+        <element>Firmwochenende 1</element>
+        <element>Firmwochenende 2</element>
+        <element>Firmwochenende 3</element>
+    </events>
+    <meals>
+        <element />
+        <element />
+        <element />
+        <element>
+            <element>Freitag Abendessen</element>
+            <element>Samstag Mittagessen</element>
+            <element>Samstag Abendessen</element>
+            <element>Sonntag Mittagessen</element>
+        </element>
+    </meals>
+    <menu>
+        <element />
+        <element />
+        <element />
+        <element>
+            <element>Burger</element>
+            <element>Käsespätzle</element>
+            <element>Geschnetzeltes mit Reis</element>
+            <element>Chili con Carne</element>
+        </element>
+    </menu>
+</menu>

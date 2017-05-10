@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+    <colors>
+        <element>#FFFFFF</element>
+        <element>#FF7F7F</element>
+        <element>#FF7F7F</element>
+        <element>#7FFF7F</element>
+        <element>#7FFF7F</element>
+        <element>#7F7FFF</element>
+        <element>#7F7FFF</element>
+        <element>#FFFF7F</element>
+        <element>#FFFF7F</element>
+        <element>#FF7FFF</element>
+        <element>#FF7FFF</element>
+        <element>#FF7FFF</element>
+        <element>#FF7FFF</element>
+        <element>#7FFFFF</element>
+        <element>#7FFFFF</element>
+        <element>#FFBF7F</element>
+        <element>#FF7FBF</element>
+        <element>#BFFF7F</element>
+    </colors>
+    <events>
+        <element>Bibelwochenende</element>
+        <element>Firmwochenende 1</element>
+        <element>Firmwochenende 2</element>
+        <element>Firmwochenende 3</element>
+    </events>
+    <jobs>
+        <element>Gruppenleiter 1</element>
+        <element>Gruppenleiter 2</element>
+        <element>Gruppenleiter 3</element>
+        <element>Gruppenleiter 4</element>
+        <element>Gruppenleiter 5</element>
+        <element>Gruppenleiter 6</element>
+        <element>Gruppenleiter 7</element>
+        <element>Gruppenleiter 8</element>
+        <element>Küchenchef</element>
+        <element>Küchenhelfer 1</element>
+        <element>Küchenhelfer 2</element>
+        <element>Spülchef</element>
+        <element>Allgemeiner Arbeiter</element>
+        <element>Typ mit der Anlage</element>
+        <element>Hausmeister</element>
+        <element>Gruppenbetreuer</element>
+        <element>Bar</element>
+    </jobs>
+    <schedule>
+        <element>
+            <element>P101</element>
+            <element>P201</element>
+            <element>P301</element>
+            <element>Michi Schuller</element>
+        </element>
+        <element>
+            <element>P102</element>
+            <element>P202</element>
+            <element>P302</element>
+            <element>Saskia Cox</element>
+        </element>
+        <element>
+            <element>P103</element>
+            <element>P203</element>
+            <element>P303</element>
+            <element>Julian Gärtner</element>
+        </element>
+        <element>
+            <element>P104</element>
+            <element>P204</element>
+            <element>P304</element>
+            <element>Julia</element>
+        </element>
+        <element>
+            <element>P105</element>
+            <element>P205</element>
+            <element>P305</element>
+            <element>Pia Sahlstorfer</element>
+        </element>
+        <element>
+            <element>P106</element>
+            <element>P206</element>
+            <element>P306</element>
+            <element>Markus Bierwirth</element>
+        </element>
+        <element>
+            <element>P107</element>
+            <element>P207</element>
+            <element>P307</element>
+            <element>Martin Sperr</element>
+        </element>
+        <element>
+            <element>P108</element>
+            <element>P208</element>
+            <element>P308</element>
+            <element>Dominik Brosig</element>
+        </element>
+        <element>
+            <element>P109</element>
+            <element>P209</element>
+            <element>P309</element>
+            <element>Tom Mitter</element>
+        </element>
+        <element>
+            <element>P110</element>
+            <element>P210</element>
+            <element>P310</element>
+            <element>Vroni Starkl</element>
+        </element>
+        <element>
+            <element>P111</element>
+            <element>P211</element>
+            <element>P311</element>
+            <element>Andi Balhuber</element>
+        </element>
+        <element>
+            <element>P112</element>
+            <element>P212</element>
+            <element>P312</element>
+            <element>Niklas Haider</element>
+        </element>
+        <element>
+            <element>P113</element>
+            <element>P213</element>
+            <element>P313</element>
+            <element>Lukas Rosam</element>
+        </element>
+        <element>
+            <element>P114</element>
+            <element>P214</element>
+            <element>P314</element>
+            <element>Matthias Schaupner</element>
+        </element>
+        <element>
+            <element>P115</element>
+            <element>P215</element>
+            <element>P315</element>
+            <element>Stefan Bauer</element>
+        </element>
+        <element>
+            <element>P116</element>
+            <element>P216</element>
+            <element>P316</element>
+            <element>Hannes Müller</element>
+        </element>
+        <element>
+            <element>P117</element>
+            <element>P217</element>
+            <element>P317</element>
+            <element>Yvi, Jonas, Sophie</element>
+        </element>
+    </schedule>
+</schedule>
