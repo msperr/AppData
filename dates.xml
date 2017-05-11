@@ -67,4 +67,18 @@
         <start_time>09:00:00</start_time>
         <type>0</type>
     </element>
+    <element>
+        <location>Pfarrkirche Ampfing</location>
+        <name>Firmauftakt</name>
+        <start_date>2016-11-05</start_date>
+        <start_time>19:00:00</start_time>
+        <type>0</type>
+    </element>
+    <element>
+        <location>Pfarrkirche Ampfing</location>
+        <name>Firmprobe</name>
+        <start_date>2017-06-30</start_date>
+        <start_time>16:00:00</start_time>
+        <type>0</type>
+    </element>
 </events>
