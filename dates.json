@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Bibelwochenende",
+    "start_date": "2017-01-14",
+    "end_date": "2017-01-15",
+    "start_time": "09:00:00",
+    "location": "Pfarrheim Ampfing",
+    "preliminary_meeting": {
+      "name": "Vorbereitungstreffen",
+      "start_date": "2017-01-08",
+      "start_time": "14:00:00",
+      "location": "Pfarrheim Ampfing"
+    }
+  },
+  {
+    "name": "Firmwochenende",
+    "start_date": "2017-03-10",
+    "end_date": "2017-03-12",
+    "start_time": "18:00:00",
+    "location": "Rimsting",
+    "preliminary_meeting": {
+      "name": "Vorbereitungstreffen",
+      "start_date": "2017-03-05",
+      "start_time": "14:00:00",
+      "location": "Pfarrheim Ampfing"
+    }
+  },
+  {
+    "name": "Firmwochenende",
+    "start_date": "2017-04-28",
+    "end_date": "2017-04-30",
+    "start_time": "18:00:00",
+    "location": "Rimsting",
+    "preliminary_meeting": {
+      "name": "Vorbereitungstreffen",
+      "start_date": "2017-04-23",
+      "start_time": "14:00:00",
+      "location": "Pfarrheim Ampfing"
+    }
+  },
+  {
+    "name": "Firmwochenende",
+    "start_date": "2017-05-19",
+    "end_date": "2017-05-21",
+    "start_time": "18:00:00",
+    "location": "Rimsting",
+    "preliminary_meeting": {
+      "name": "Vorbereitungstreffen",
+      "start_date": "2017-05-14",
+      "start_time": "14:00:00",
+      "location": "Pfarrheim Ampfing"
+    }
+  },
+  {
+    "name": "Firmung",
+    "start_date": "2017-07-05",
+    "start_time": "09:00:00",
+    "location": "Pfarrkirche Ampfing"
+  }
+]
