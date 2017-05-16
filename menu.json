@@ -1,0 +1,30 @@
+{
+  "events": [
+    "Bibelwochenende",
+    "Firmwochenende 1",
+    "Firmwochenende 2",
+    "Firmwochenende 3"
+  ],
+  "meals": [
+    [],
+    [],
+    [],
+    [
+      "Freitag Abendessen",
+      "Samstag Mittagessen",
+      "Samstag Abendessen",
+      "Sonntag Mittagessen"
+    ]
+  ],
+  "menu": [
+    [],
+    [],
+    [],
+    [
+      "Burger",
+      "Käsespätzle",
+      "Geschnetzeltes mit Reis",
+      "Chili con Carne"
+    ]
+  ]
+}
