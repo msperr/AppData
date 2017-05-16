@@ -1,0 +1,151 @@
+{
+  "events": [
+    "Bibelwochenende",
+    "Firmwochenende 1",
+    "Firmwochenende 2",
+    "Firmwochenende 3"
+  ],
+  "jobs": [
+    "Gruppenleiter 1",
+    "Gruppenleiter 2",
+    "Gruppenleiter 3",
+    "Gruppenleiter 4",
+    "Gruppenleiter 5",
+    "Gruppenleiter 6",
+    "Gruppenleiter 7",
+    "Gruppenleiter 8",
+    "Küchenchef",
+    "Küchenhelfer 1",
+    "Küchenhelfer 2",
+    "Spülchef",
+    "Allgemeiner Arbeiter",
+    "Typ mit der Anlage",
+    "Hausmeister",
+    "Gruppenbetreuer",
+    "Bar"
+  ],
+  "colors": [
+    "#FFFFFF",
+    "#FF7F7F",
+    "#FF7F7F",
+    "#7FFF7F",
+    "#7FFF7F",
+    "#7F7FFF",
+    "#7F7FFF",
+    "#FFFF7F",
+    "#FFFF7F",
+    "#FF7FFF",
+    "#FF7FFF",
+    "#FF7FFF",
+    "#FF7FFF",
+    "#7FFFFF",
+    "#7FFFFF",
+    "#FFBF7F",
+    "#FF7FBF",
+    "#BFFF7F"
+  ],
+  "schedule": [
+    [
+      "P101",
+      "P201",
+      "P301",
+      "Michi Schuller"
+    ],
+    [
+      "P102",
+      "P202",
+      "P302",
+      "Saskia Cox"
+    ],
+    [
+      "P103",
+      "P203",
+      "P303",
+      "Julian Gärtner"
+    ],
+    [
+      "P104",
+      "P204",
+      "P304",
+      "Julia"
+    ],
+    [
+      "P105",
+      "P205",
+      "P305",
+      "Pia Sahlstorfer"
+    ],
+    [
+      "P106",
+      "P206",
+      "P306",
+      "Markus Bierwirth"
+    ],
+    [
+      "P107",
+      "P207",
+      "P307",
+      "Martin Sperr"
+    ],
+    [
+      "P108",
+      "P208",
+      "P308",
+      "Dominik Brosig"
+    ],
+    [
+      "P109",
+      "P209",
+      "P309",
+      "Tom Mitter"
+    ],
+    [
+      "P110",
+      "P210",
+      "P310",
+      "Vroni Starkl"
+    ],
+    [
+      "P111",
+      "P211",
+      "P311",
+      "Andi Balhuber"
+    ],
+    [
+      "P112",
+      "P212",
+      "P312",
+      "Niklas Haider"
+    ],
+    [
+      "P113",
+      "P213",
+      "P313",
+      "Lukas Rosam"
+    ],
+    [
+      "P114",
+      "P214",
+      "P314",
+      "Matthias Schaupner"
+    ],
+    [
+      "P115",
+      "P215",
+      "P315",
+      "Stefan Bauer"
+    ],
+    [
+      "P116",
+      "P216",
+      "P316",
+      "Hannes Müller"
+    ],
+    [
+      "P117",
+      "P217",
+      "P317",
+      "Yvi, Jonas, Sophie"
+    ]
+  ]
+}
