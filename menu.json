@@ -8,7 +8,12 @@
   "meals": [
     [],
     [],
-    [],
+    [
+      "Freitag Abendessen",
+      "Samstag Mittagessen",
+      "Samstag Abendessen",
+      "Sonntag Mittagessen"
+    ],
     [
       "Freitag Abendessen",
       "Samstag Mittagessen",
@@ -19,12 +24,17 @@
   "menu": [
     [],
     [],
-    [],
     [
       "Burger",
       "Käsespätzle",
       "Geschnetzeltes mit Reis",
       "Chili con Carne"
+    ],
+    [
+      "Burger",
+      "Käsespätzle",
+      "Schnitzel mit Pommes",
+      "Gulasch mit Reis"
     ]
   ]
 }
