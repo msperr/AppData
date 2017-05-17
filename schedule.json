@@ -1,11 +1,5 @@
 {
-  "events": [
-    "Bibelwochenende",
-    "Firmwochenende 1",
-    "Firmwochenende 2",
-    "Firmwochenende 3"
-  ],
-  "jobs": [
+   "jobs": [
     "Gruppenleiter 1",
     "Gruppenleiter 2",
     "Gruppenleiter 3",
@@ -23,6 +17,12 @@
     "Hausmeister",
     "Gruppenbetreuer",
     "Bar"
+  ], 
+  "events": [
+    "Bibelwochenende",
+    "Firmwochenende 1",
+    "Firmwochenende 2",
+    "Firmwochenende 3"
   ],
   "colors": [
     "#FFFFFF",
